@@ -1,5 +1,5 @@
-ChefSpec
-========
+chef-julia
+==========
 [![Built on Travis](https://secure.travis-ci.org/stensonb/chef-julia.png?branch=master)](http://travis-ci.org/stensonb/chef-julia)
 
 chef-julia builds cookbooks used for testing Chef (https://github.com/opscode/chef) solutions.
