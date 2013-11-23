@@ -1,5 +1,8 @@
-# Purpose
-This gem builds cookbooks used for testing Chef (https://github.com/opscode/chef) solutions.
+ChefSpec
+========
+[![Built on Travis](https://secure.travis-ci.org/stensonb/chef-julia.png?branch=master)](http://travis-ci.org/stensonb/chef-julia)
+
+chef-julia builds cookbooks used for testing Chef (https://github.com/opscode/chef) solutions.
 
 When writing LWRPs, testing them can be difficult.  For example, in ChefSpec, you must build a "fixture cookbook", then duplicate the details of your fixture cookbook in your ChefSpec (ie, expecting your resource to be called by the fixture cookbook with certain attribute values).
 
