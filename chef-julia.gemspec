@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'bundler'
+  s.add_development_dependency 'rake'
 
   s.files        = `git ls-files`.split("\n")
   s.require_path = 'lib'
