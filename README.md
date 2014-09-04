@@ -1,4 +1,4 @@
-crap more stuff tooother crap happening soon, some changes here
+changes here
 
 chef-julia
 ==========
