@@ -1,3 +1,5 @@
+crap more stuff tooother crap happening soon, some changes here
+
 chef-julia
 ==========
 [![Built on Travis](https://secure.travis-ci.org/stensonb/chef-julia.png?branch=master)](http://travis-ci.org/stensonb/chef-julia)
